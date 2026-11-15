@@ -34,8 +34,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0014-longest-common-prefix) |
@@ -105,8 +105,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [3731-find-missing-elements](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0013-roman-to-integer) |
@@ -131,8 +131,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3731-find-missing-elements) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
@@ -147,8 +147,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0876-middle-of-the-linked-list](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0009-palindrome-number) |
@@ -174,8 +174,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0044-wildcard-matching) |
@@ -185,8 +185,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0486-predict-the-winner](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0509-fibonacci-number) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0008-string-to-integer-atoi) |
@@ -226,14 +226,14 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0300-longest-increasing-subsequence) |
@@ -249,13 +249,13 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0018-4sum) |
@@ -274,8 +274,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0044-wildcard-matching) |
@@ -329,13 +329,13 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0208-implement-trie-prefix-tree) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0056-merge-intervals) |
@@ -354,16 +354,16 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [3731-find-missing-elements](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0051-n-queens) |
 | [0282-expression-add-operators](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0494-target-sum) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -379,8 +379,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
@@ -390,12 +390,12 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0023-merge-k-sorted-lists) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0064-minimum-path-sum) |
@@ -410,8 +410,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1463-cherry-pickup-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0496-next-greater-element-i) |
@@ -420,8 +420,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0907-sum-of-subarray-minimums](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0099-recover-binary-search-tree) |
@@ -436,8 +436,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0099-recover-binary-search-tree) |
@@ -448,6 +448,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ItsMayankTiwari/LeetCode-DSA-questions-CPP-/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0743-network-delay-time) |
@@ -463,8 +464,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0099-recover-binary-search-tree) |
@@ -479,16 +480,16 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0102-binary-tree-level-order-traversal) |
@@ -498,6 +499,7 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/ItsMayankTiwari/LeetCode-DSA-questions-CPP-/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0743-network-delay-time) |
@@ -512,8 +514,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [1631-path-with-minimum-effort](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0044-wildcard-matching](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0055-jump-game) |
@@ -530,8 +532,8 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0208-implement-trie-prefix-tree) |
@@ -541,14 +543,15 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [0460-lfu-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0460-lfu-cache) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ItsMayankTiwari/LeetCode-DSA-questions-CPP-/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
@@ -559,14 +562,15 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [2685-count-the-number-of-complete-components](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0901-online-stock-span) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/ItsMayankTiwari/LeetCode-DSA-questions-CPP-/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -579,121 +583,121 @@ As I solve random and targeted problems, this repository acts as a database for 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Iterator
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0173-binary-search-tree-iterator) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0743-network-delay-time](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0509-fibonacci-number) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0735-asteroid-collision](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0845-longest-mountain-in-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0486-predict-the-winner](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0486-predict-the-winner) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/1392-longest-happy-prefix) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
 ## Range Minimum/Maximum Query
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/MayankMT1024/LeetCode-DSA-questions-CPP-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
